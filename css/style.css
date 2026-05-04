@@ -1,0 +1,30 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+body{
+  background-color: aliceblue;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+h1{
+  text-align: center;
+  padding:40px;
+
+}
+#container{
+  
+  height:300px;
+  width:400px;
+  background-color:white;
+  padding: 60px;
+  }
+label{
+  font-size: 25px;
+}
+
+
+
